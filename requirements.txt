@@ -1,0 +1,42 @@
+# Frontend & Backend Frameworks
+streamlit
+fastapi
+uvicorn
+
+# MongoDB support
+pymongo
+
+# Transformers / Sentiment Analysis
+transformers
+torch
+scikit-learn
+pandas
+numpy
+
+# File handling
+openpyxl  # For Excel support
+python-multipart  # For file uploads in FastAPI
+
+# Visualization
+matplotlib
+plotly
+altair
+
+# Email Sending via Gmail API
+google-auth
+google-auth-oauthlib
+google-api-python-client
+
+# Image / Chart Downloads
+Pillow
+
+# Web scraping / API Requests
+requests
+
+# Progress bar / Utilities
+tqdm
+joblib
+
+# Optional: Logging / Debugging
+loguru
+
