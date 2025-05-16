@@ -1,0 +1,64 @@
+{
+  "Doctor Behaviour": [
+    "dermatologist", "surgeon", "ent", "specialist", "doctors", "dentist", "endocrinology",
+    "hospitalist", "neuro", "pulmonologist", "ctvs", "cardiac", "pediatrician", "intensivist",
+    "md", "doctor", "physician", "immunologist", "dr", "practitioner", "consultant", "advisor",
+    "registrar", "clinician", "resident", "urologist", "acupuncturist", "radiologist",
+    "geriatrician", "pathologist", "anesthesiologist", "cardiologist", "cosmetologist",
+    "endocrinologist", "gastroenterologist", "hepatologist", "gynecologist", "obstetrician",
+    "oncologist", "neurologist", "ophthalmologist", "optometrist", "psychiatrist",
+    "psychologist", "therapist", "rheumatologist", "nephrologist", "otolaryngologist",
+    "hematologist", "toxicologist", "orthopedist", "podiatrist", "vaidyar", "rmo", "doc" , "consultanting" , "friendly"
+  ],
+  "Staff Behaviour": [
+    "staff", "employee", "chemist", "nurse", "team", "staffs", "manager", "nursing",
+    "technician", "guide", "employees", "providers", "workers", "professionals",
+    "responders", "assistant", "housekeeping", "aayas", "reception", "admin",
+    "receptionist", "matron", "groupd", "midwife", "pharmacist", "dietician",
+    "nutritionist", "administrator", "executive", "clerk", "coordinator", "officer",
+    "secretary", "engineer", "wardboy", "driver", "security", "personnel", "compounder",
+    "perfusionist", "counselor", "guard", "nurses", "caregiver", "crew", "therapists",
+    "facilitator", "faculty", "attendants"
+  ],
+  "Cost": [
+    "affordable", "expensive", "reasonable", "cost", "budget", "overpriced", "costeffective",
+    "fare", "pricing", "fees", "payment", "insurance", "out-of-pocket", "costly", "premium",
+    "luxurious", "billing", "pricey", "charges", "price", "free", "bills", "inexpensive",
+    "cheap", "pocketfriendly", "value", "charge", "amount", "amounts", "bill", "expenditure",
+    "finance", "penny", "coverage", "deductible", "negotiable", "overpaying", "clearance",
+    "money", "economical", "rates", "minimum", "card", "cash", "costed", "priced", "rupees",
+    "paid", "discount", "charging", "charged", "rs", "rps"
+  ],
+  "Cleanliness": [
+    "clean", "aseptic", "antiseptic", "airy", "aromatic", "aesthtic", "decontamination",
+    "purity", "ablution", "neat", "tidy", "spotless", "infection", "sanitary", "hygienic",
+    "germ", "fumigation", "sterility", "autoclave", "oxidation", "chlorination", "fresh",
+    "immaculate", "sparkling", "pristine", "dust", "stains", "shiny", "linens", "bathroom",
+    "trash", "bins", "odor", "swept", "mopped", "spills", "windows", "walls", "polished",
+    "towels", "dustbin", "disposals", "cobwebs", "grime", "smell", "smudges", "disinfected",
+    "leakage", "mold", "surfaces", "sanitization", "dirt", "clear", "cluttered",
+    "uncluttered", "dirty", "scrubbed", "laundry", "foul", "odorless", "cleanliness",
+    "hygiene", "unhygienic", "rats"
+  ],
+  "Waiting time": [
+    "delay", "stop", "wait", "remain", "long", "queue", "slow", "check-in", "hurried",
+    "crowded", "crowd", "busy", "late", "rush", "fast", "schedule", "line", "turnaround",
+    "waiting", "duration", "time", "speedy", "timely", "stagnation", "unhurried", "hurry",
+    "rapid", "pause", "scheduling", "sequence", "tardy", "hold", "backlog", "lag", "halt",
+    "stall", "quick", "postponed", "postpone", "response", "linger", "quickly", "hasty",
+    "minutes", "minute", "hour", "hours", "second", "seconds"
+  ],
+  "Facility Experience": [
+    "office", "facility", "service", "hospital", "management", "accomodation", "people",
+    "experience", "convienent", "comfort", "air conditioning", "parking", "cafeteria",
+    "wheelchair", "elevators", "furniture", "lighting", "wi-fi", "seating", "signage",
+    "maintenance", "equipment", "spacious", "toiletries", "ventilation", "private", "shared",
+    "cabin", "garden", "area", "pharmacy", "lounge", "lab", "ward", "table", "room",
+    "washbasins", "temperature", "lights", "storage", "disposal", "linen", "unit", "stay",
+    "care", "treatment", "place", "healthcare", "hospitality", "comfortable", "atmosphere",
+    "overall", "organisation", "worth", "process", "clinic", "advanced", "department",
+    "quality", "speciality", "premises", "ambience", "environment", "privacy", "digital",
+    "everything", "infrastructure", "infra", "canteen", "corporate", "system", "centre",
+    "administration", "center", "standards", "clinics"
+  ]
+}
