@@ -15,9 +15,11 @@ import re
 app = FastAPI()
 
 # Enable CORS if frontend is separate
+from fastapi.middleware.cors import CORSMiddleware
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Change in production
+    allow_origins=["*"],  # Replace with specific domains if needed
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
