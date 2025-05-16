@@ -5,6 +5,7 @@ uvicorn
 
 # MongoDB support
 pymongo
+bcrypt  # For password hashing
 
 # Transformers / Sentiment Analysis
 transformers
