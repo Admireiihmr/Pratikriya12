@@ -493,7 +493,7 @@ def main_app():
                 )
 
                 # API call
-                response = requests.post("http://127.0.0.1:5003/predict", json={"reviews": reviews})
+                response = requests.post("https://pratikriya-backend.onrender.com/predict", json={"reviews": reviews})
                 if response.status_code == 200:
                     sentiments = response.json()["results"]
                     df["Sentiment"] = sentiments
@@ -587,7 +587,7 @@ def main_app():
                 )
 
                 # Call prediction API
-                response = requests.post("http://127.0.0.1:5003/predict", json={"reviews": reviews})
+                response = requests.post("https://pratikriya-backend.onrender.com/predict", json={"reviews": reviews})
                 if response.status_code == 200:
                     sentiments = response.json()["results"]
                     df["Sentiment"] = sentiments
