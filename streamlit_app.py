@@ -20,7 +20,7 @@ from pymongo import MongoClient
 
 # ---------------------- Session State Init ----------------------
 # Connect to MongoDB
-client = MongoClient("mongodb+srv://admireiihmr:admireiihmr@cluster0.9eczk3o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+client = MongoClient("mongodb+srv://admireiihmr:Admireiihmr123@cluster0.9eczk3o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 db = client["Pratikriya"]
 collection = db["users"]
 csv_collection = db["csv"]
