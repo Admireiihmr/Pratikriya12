@@ -95,12 +95,12 @@ CONFIDENCE_THRESHOLD = 0.3
 
 # Define aspect-specific model paths
 aspect_model_paths = {
-    "doctor": "models/fine_tuned_roberta_doctor",
-    "staff": "models/fine_tuned_roberta_staff",
-    "cost": "models/fine_tuned_roberta_cost",
-    "waitingtime": "models/fine_tuned_roberta_waitingtime",
-    "cleanliness": "models/fine_tuned_roberta_cleanliness",
-    "facility": "models/fine_tuned_roberta_facility"
+    "doctor": "fine_tuned_roberta_doctor",
+    "staff": "fine_tuned_roberta_staff",
+    "cost": "fine_tuned_roberta_cost",
+    "waitingtime": "fine_tuned_roberta_waitingtime",
+    "cleanliness": "fine_tuned_roberta_cleanliness",
+    "facility": "fine_tuned_roberta_facility"
 }
 
 # Load aspect-specific models and tokenizers
