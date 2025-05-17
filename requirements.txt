@@ -9,6 +9,7 @@ bcrypt  # For password hashing
 
 # Transformers / Sentiment Analysis
 transformers
+--upgrade transformers
 torch
 scikit-learn
 pandas
